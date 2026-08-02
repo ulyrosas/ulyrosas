@@ -70,7 +70,7 @@ Co-founder & CTO of a boutique software studio. 10+ years building web, iOS, and
 | 🩺 | **BoncorMedical** | Real-time vital signs monitor for clinics, with push alerts for staff. | `Next.js` `Node.js` `Docker` |
 | 📡 | **Tracx** | Tracking and automation platform with connected-device integration. | `React` `MQTT` `REST` |
 | 📅 | **Reserva** | Booking and management product with an admin dashboard and optimized user flow. | `React` `Node.js` `SQL` |
-| 🎚️ | **JoeCo BandMate** | Bluetooth remote for a live backing-track player — playlists and per-channel mixer control. | `React Native` `MQTT` |
+| 🎚️ | **BandMateRemote** | Bluetooth remote for a live backing-track player — playlists and per-channel mixer control. | `React Native` `MQTT` |
 
 <br/>
 
