@@ -20,7 +20,8 @@
 
 ## About
 
-Co-founder & CTO of a boutique software studio. 10+ years building web, iOS, and Android products for U.S. and Latin American startups — leading distributed teams, cutting release times **60–80%**, and cutting production defects **50%** through CI/CD, automated QA, and error monitoring. Integrating AI (OpenAI, Gemini, Deepseek via n8n) to boost engagement and retention.
+Senior Full-Stack and Mobile Software Engineer with 10+ years of experience building web, iOS, and Android products for companies in the United States, Latin America, and the United Kingdom.
+I combine hands-on development with technical leadership, software architecture, and end-to-end product delivery.
 
 <br/>
 
