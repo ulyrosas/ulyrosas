@@ -80,7 +80,7 @@ I combine hands-on development with technical leadership, software architecture,
 <div align="center">
 
 <img src="https://github-readme-stats-psi-vert.vercel.app/api?username=ulyrosas&show_icons=true&theme=dark&hide_border=true&bg_color=0B0E14&title_color=6EE7B7&icon_color=7DD3FC&text_color=9AA4B8" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ulyrosas&theme=dark&hide_border=true&background=0B0E14&ring=6EE7B7&fire=6EE7B7&currStreakLabel=7DD3FC&sideLabels=9AA4B8&dates=9AA4B8" alt="GitHub streak" height="165" />
+<img src="https://streak-stats.demolab.com/?user=ulyrosas&theme=dark&hide_border=true&background=0B0E14&ring=6EE7B7&fire=6EE7B7&currStreakLabel=7DD3FC&sideLabels=9AA4B8&dates=9AA4B8" alt="GitHub streak" height="165" />
 
 </div>
 
