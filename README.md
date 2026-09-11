@@ -5,7 +5,7 @@
 ### Senior Full-Stack & Mobile Software Engineer
 
 <a href="https://linkedin.com/in/ulyrosas/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Co-founder+%26+CTO+at+Sahuaro+Labs;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+10%2B+years+shipping+products;Leading+distributed+teams+of+up+to+12;Building+AI-integrated+products+with+OpenAI+%2F+Gemini" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=560&lines=Co-founder+%26+Head+of+Engineering+at+Sahuaro+Labs;Web+%C2%B7+iOS+%C2%B7+Android+%C2%B7+10%2B+years+shipping+products;Leading+distributed+teams+of+up+to+12;Building+AI-integrated+products+with+OpenAI+%2F+Gemini" alt="Typing SVG" />
 </a>
 
 <br/>
